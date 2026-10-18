@@ -1,0 +1,15 @@
+{
+  "id": "./",
+  "name": "drag-n-drop",
+  "short_name": "drag-n-drop",
+  "description": "Arrange screenshots into a collage and export a single image, even offline.",
+  "lang": "en",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#141416",
+  "theme_color": "#141416",
+  "icons": [
+    {"src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any"}
+  ]
+}
