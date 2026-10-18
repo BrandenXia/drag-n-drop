@@ -2,7 +2,7 @@
 
 // The scope keeps caches for other GitHub Pages projects separate.
 const CACHE_PREFIX = `drag-n-drop:${self.registration.scope}:`;
-const CACHE_NAME = `${CACHE_PREFIX}v1`;
+const CACHE_NAME = `${CACHE_PREFIX}v2`;
 const APP_URL = new URL('./', self.location.href);
 const INDEX_URL = new URL('index.html', APP_URL).href;
 const APP_FILES = ['index.html', 'manifest.webmanifest', 'icon.svg'].map(path => new URL(path, APP_URL).href);

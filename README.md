@@ -6,6 +6,7 @@ A minimal screenshot collage maker. Arrange images directly on the canvas, choos
 
 Open [drag-n-drop](https://brandenxia.github.io/drag-n-drop/), then add images or drop them onto the canvas.
 
+- Use the sun/moon button in the header to switch between light and dark mode. The app follows your system appearance until you choose a mode, then remembers your choice, including offline.
 - Drag images to rearrange them. The ordering control also supports capture time, filename, and file modification time.
 - Select an image and press Delete or Backspace to remove it, or drop it outside the canvas. Use **Undo removal** or Cmd/Ctrl+Z to restore the most recently removed image.
 - Use Alt+Left/Right to reorder a selected image with the keyboard.
